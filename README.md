@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hackettyhackhack
-- 👀 I’m interested in learning, personal development, art, design, mindset...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on things when I get a handle on python
-- 📫 How to reach me? Good question. Discord@ nsx#9742
+- 👋 Hi, I’m Cherokee
+- 👀 I’m interested in learning, personal development, art, design, mindset... as seen on my linktree
+- 🌱 I’m also currently learning coding, hence why I'm here! 
+- 
+- 📫 How to reach me? Have a look on my linktree link, there's an e-mail where I'm reachable on. 
 
 <!---
 Hackettyhackhack/Hackettyhackhack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
