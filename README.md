@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cherokee
-- 👀 I’m interested in learning, personal development, art, design, mindset... as seen on my https://linktr.ee/ChristianGoldberg
+- 👀 I’m interested in learning, personal development, art, design, mindset...
 - 🌱 I’m also currently learning coding, hence why I'm here! 
 - 
 - 📫 How to reach me? Have a look on my linktree link, there's an e-mail where I'm reachable on. 
